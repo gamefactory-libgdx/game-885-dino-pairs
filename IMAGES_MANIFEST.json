@@ -1,0 +1,17 @@
+{
+  "generated": [
+    "icon_512.png",
+    "ui/main_menu_screen.png",
+    "ui/size_select_screen.png",
+    "ui/hatchling_screen.png",
+    "ui/juvenile_screen.png",
+    "ui/alpha_screen.png",
+    "ui/win_screen.png",
+    "ui/game_over_screen.png",
+    "ui/leaderboard_screen.png",
+    "ui/stats_screen.png",
+    "ui/settings_screen.png"
+  ],
+  "failed": [],
+  "total_tokens": 25556
+}

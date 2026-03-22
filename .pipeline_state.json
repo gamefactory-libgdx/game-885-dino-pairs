@@ -1,0 +1,33 @@
+{
+  "title": "Dino Pairs",
+  "orientation": "portrait",
+  "genre": "memory-puzzle",
+  "mechanic": "tap",
+  "description": "Flip prehistoric tiles to match dinosaur pairs. Cards animate when matched \u2014 matched dinos roar and stomp. Three board sizes: Hatchling (4x4), Juvenile (6x6), Alpha (8x8). Three speed bonuses: solve in under 60s, 45s, 30s for star ratings. Rare golden fossil tiles give bonus points.",
+  "screens": [
+    "MainMenuScreen",
+    "SizeSelectScreen",
+    "HatchlingScreen",
+    "JuvenileScreen",
+    "AlphaScreen",
+    "WinScreen",
+    "GameOverScreen",
+    "LeaderboardScreen",
+    "StatsScreen",
+    "SettingsScreen"
+  ],
+  "slug": "dino-pairs",
+  "archetype": "memory-match",
+  "buttonStyle": "rounded",
+  "font1": "DPComic.ttf",
+  "font2": "OrangeKid.otf",
+  "colors": {
+    "primary": "#8BC34A",
+    "accent": "#FF7043",
+    "bg": "#E8F5E9",
+    "text": "#1A1A1A"
+  },
+  "gameId": "game-885-dino-pairs",
+  "gamePath": "/home/kaliuzhnyi/asocity/projects/game-885-dino-pairs",
+  "packageName": "com.asocity.dinopairs000885"
+}
